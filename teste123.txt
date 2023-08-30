@@ -1,2 +1,6 @@
 ola mundo
+<<<<<<< HEAD
 mundo legal e maneiro
+=======
+mundo grande e singelo
+>>>>>>> e04c35449507786aed14c0387c8ae4729fc482b5
